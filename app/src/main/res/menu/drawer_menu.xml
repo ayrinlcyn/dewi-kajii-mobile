@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/atraksi"
+            android:title="Atraksi"/>
+
+        <item
+            android:id="@+id/paket_wisata"
+            android:title="Paket Wisata"/>
+
+        <item
+            android:id="@+id/katalog_ikan"
+            android:title="Katalog Ikan"/>
+
+        <item
+            android:id="@+id/homestay"
+            android:title="Homestay"/>
+    </group>
+</menu>
